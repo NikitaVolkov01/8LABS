@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-26T01:08:38</date>
+  <millis>1598393318187</millis>
+  <sequence>0</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-26T01:08:46</date>
+  <millis>1598393326592</millis>
+  <sequence>1</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: login
+Параметр: q q
+
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-26T01:08:46</date>
+  <millis>1598393326602</millis>
+  <sequence>2</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-26T01:08:46</date>
+  <millis>1598393326613</millis>
+  <sequence>3</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: show
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-26T01:08:46</date>
+  <millis>1598393326616</millis>
+  <sequence>4</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-26T01:08:49</date>
+  <millis>1598393329064</millis>
+  <sequence>5</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: clear
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-26T01:08:49</date>
+  <millis>1598393329065</millis>
+  <sequence>6</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>

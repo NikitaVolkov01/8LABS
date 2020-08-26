@@ -1,0 +1,2 @@
+Main-Class: App
+Class-Path: lib/postgresql-42.2.12.jar

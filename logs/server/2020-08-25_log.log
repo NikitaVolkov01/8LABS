@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T22:45:57</date>
+  <millis>1598384757542</millis>
+  <sequence>0</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:46:08</date>
+  <millis>1598384768304</millis>
+  <sequence>1</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: login
+Параметр: й й
+
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T22:46:08</date>
+  <millis>1598384768314</millis>
+  <sequence>2</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:46:08</date>
+  <millis>1598384768325</millis>
+  <sequence>3</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: show
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T22:46:08</date>
+  <millis>1598384768325</millis>
+  <sequence>4</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:46:25</date>
+  <millis>1598384785793</millis>
+  <sequence>5</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 231a, координаты: (11.0;11), дата создания: null, цена: 11, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:46:25</date>
+  <millis>1598384785804</millis>
+  <sequence>6</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:46:40</date>
+  <millis>1598384800233</millis>
+  <sequence>7</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 11q, координаты: (1.0;1), дата создания: null, цена: 23, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:46:40</date>
+  <millis>1598384800245</millis>
+  <sequence>8</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:46:53</date>
+  <millis>1598384813046</millis>
+  <sequence>9</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: we2, координаты: (23.0;13), дата создания: null, цена: 122, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:46:53</date>
+  <millis>1598384813056</millis>
+  <sequence>10</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:47:09</date>
+  <millis>1598384829182</millis>
+  <sequence>11</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 22w3, координаты: (33.0;444), дата создания: null, цена: 34, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:47:09</date>
+  <millis>1598384829191</millis>
+  <sequence>12</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:47:34</date>
+  <millis>1598384854689</millis>
+  <sequence>13</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 233, координаты: (22.0;234), дата создания: null, цена: 45, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:47:34</date>
+  <millis>1598384854701</millis>
+  <sequence>14</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:48:44</date>
+  <millis>1598384924291</millis>
+  <sequence>15</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: clear
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T22:48:44</date>
+  <millis>1598384924308</millis>
+  <sequence>16</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:51:45</date>
+  <millis>1598385105490</millis>
+  <sequence>17</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: login
+Параметр: q q
+
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T22:51:45</date>
+  <millis>1598385105492</millis>
+  <sequence>18</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:51:45</date>
+  <millis>1598385105503</millis>
+  <sequence>19</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: show
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T22:51:45</date>
+  <millis>1598385105504</millis>
+  <sequence>20</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:51:57</date>
+  <millis>1598385117209</millis>
+  <sequence>21</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: we, координаты: (2.0;2), дата создания: null, цена: 2, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:51:57</date>
+  <millis>1598385117219</millis>
+  <sequence>22</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:52:16</date>
+  <millis>1598385136049</millis>
+  <sequence>23</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: we, координаты: (2.0;2), дата создания: null, цена: 2, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:52:16</date>
+  <millis>1598385136060</millis>
+  <sequence>24</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:52:40</date>
+  <millis>1598385160655</millis>
+  <sequence>25</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: clear
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T22:52:40</date>
+  <millis>1598385160665</millis>
+  <sequence>26</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:01</date>
+  <millis>1598385181903</millis>
+  <sequence>27</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 1, координаты: (1.0;1), дата создания: null, цена: 1, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:01</date>
+  <millis>1598385181913</millis>
+  <sequence>28</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:07</date>
+  <millis>1598385187995</millis>
+  <sequence>29</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 112, координаты: (22.0;22), дата создания: null, цена: 22, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:08</date>
+  <millis>1598385188008</millis>
+  <sequence>30</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:12</date>
+  <millis>1598385192590</millis>
+  <sequence>31</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 22, координаты: (22.0;22), дата создания: null, цена: 2, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:12</date>
+  <millis>1598385192603</millis>
+  <sequence>32</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:13</date>
+  <millis>1598385193913</millis>
+  <sequence>33</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: clear
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:13</date>
+  <millis>1598385193923</millis>
+  <sequence>34</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:22</date>
+  <millis>1598385202041</millis>
+  <sequence>35</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 333, координаты: (44.0;44), дата создания: null, цена: 3, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:22</date>
+  <millis>1598385202051</millis>
+  <sequence>36</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:39</date>
+  <millis>1598385219170</millis>
+  <sequence>37</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 344, координаты: (43.0;333), дата создания: null, цена: 33, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:39</date>
+  <millis>1598385219176</millis>
+  <sequence>38</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:42</date>
+  <millis>1598385222187</millis>
+  <sequence>39</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: remove_by_id
+Параметр: 163
+
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:42</date>
+  <millis>1598385222207</millis>
+  <sequence>40</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:53</date>
+  <millis>1598385233579</millis>
+  <sequence>41</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: update
+Параметр: null
+Билет: ID: 162, название: 333, координаты: (44.0;44), дата создания: 2020-08-25, цена: 3, автор q</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:53</date>
+  <millis>1598385233583</millis>
+  <sequence>42</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:54</date>
+  <millis>1598385234224</millis>
+  <sequence>43</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: update
+Параметр: null
+Билет: ID: 162, название: 333, координаты: (44.0;44), дата создания: 2020-08-25, цена: 13, автор q</message>
+</record>
+<record>
+  <date>2020-08-25T22:53:54</date>
+  <millis>1598385234237</millis>
+  <sequence>44</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:54:10</date>
+  <millis>1598385250196</millis>
+  <sequence>45</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 23234, координаты: (33.0;3), дата создания: null, цена: 33, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:54:10</date>
+  <millis>1598385250206</millis>
+  <sequence>46</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:56:54</date>
+  <millis>1598385414544</millis>
+  <sequence>47</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 33, координаты: (330.0;33), дата создания: null, цена: 3, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:56:54</date>
+  <millis>1598385414559</millis>
+  <sequence>48</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:57:08</date>
+  <millis>1598385428222</millis>
+  <sequence>49</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 45, координаты: (350.0;22), дата создания: null, цена: 3, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:57:08</date>
+  <millis>1598385428234</millis>
+  <sequence>50</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:58:16</date>
+  <millis>1598385496599</millis>
+  <sequence>51</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 3, координаты: (33.0;500), дата создания: null, цена: 3, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:58:16</date>
+  <millis>1598385496607</millis>
+  <sequence>52</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:58:25</date>
+  <millis>1598385505048</millis>
+  <sequence>53</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 33, координаты: (3.0;700), дата создания: null, цена: 3, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:58:25</date>
+  <millis>1598385505064</millis>
+  <sequence>54</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:58:35</date>
+  <millis>1598385515485</millis>
+  <sequence>55</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 33, координаты: (3.0;600), дата создания: null, цена: 44, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:58:35</date>
+  <millis>1598385515498</millis>
+  <sequence>56</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:58:47</date>
+  <millis>1598385527758</millis>
+  <sequence>57</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 44, координаты: (4.0;680), дата создания: null, цена: 4, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:58:47</date>
+  <millis>1598385527771</millis>
+  <sequence>58</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:58:57</date>
+  <millis>1598385537040</millis>
+  <sequence>59</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 44, координаты: (44.0;650), дата создания: null, цена: 4, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:58:57</date>
+  <millis>1598385537049</millis>
+  <sequence>60</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:59:06</date>
+  <millis>1598385546092</millis>
+  <sequence>61</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 44, координаты: (45.0;630), дата создания: null, цена: 3, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:59:06</date>
+  <millis>1598385546107</millis>
+  <sequence>62</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T22:59:43</date>
+  <millis>1598385583265</millis>
+  <sequence>63</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: 23, координаты: (33.0;0), дата создания: null, цена: 4, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T22:59:43</date>
+  <millis>1598385583273</millis>
+  <sequence>64</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:08:50</date>
+  <millis>1598386130788</millis>
+  <sequence>65</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: login
+Параметр: q q
+
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:08:50</date>
+  <millis>1598386130790</millis>
+  <sequence>66</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:08:50</date>
+  <millis>1598386130800</millis>
+  <sequence>67</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: show
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:08:50</date>
+  <millis>1598386130801</millis>
+  <sequence>68</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:10:06</date>
+  <millis>1598386206422</millis>
+  <sequence>69</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: login
+Параметр: q q
+
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:10:06</date>
+  <millis>1598386206423</millis>
+  <sequence>70</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:10:06</date>
+  <millis>1598386206433</millis>
+  <sequence>71</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: show
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:10:06</date>
+  <millis>1598386206437</millis>
+  <sequence>72</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:11:15</date>
+  <millis>1598386275501</millis>
+  <sequence>73</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: login
+Параметр: 1 1
+
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:11:15</date>
+  <millis>1598386275502</millis>
+  <sequence>74</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:11:15</date>
+  <millis>1598386275514</millis>
+  <sequence>75</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: show
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:11:15</date>
+  <millis>1598386275514</millis>
+  <sequence>76</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:12:13</date>
+  <millis>1598386333226</millis>
+  <sequence>77</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: login
+Параметр: q q
+
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:12:13</date>
+  <millis>1598386333227</millis>
+  <sequence>78</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:12:13</date>
+  <millis>1598386333238</millis>
+  <sequence>79</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: show
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:12:13</date>
+  <millis>1598386333238</millis>
+  <sequence>80</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:12:38</date>
+  <millis>1598386358392</millis>
+  <sequence>81</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: login
+Параметр: 1 1
+
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:12:38</date>
+  <millis>1598386358393</millis>
+  <sequence>82</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:12:38</date>
+  <millis>1598386358404</millis>
+  <sequence>83</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: show
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:12:38</date>
+  <millis>1598386358404</millis>
+  <sequence>84</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:12:55</date>
+  <millis>1598386375800</millis>
+  <sequence>85</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: login
+Параметр: q q
+
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:12:55</date>
+  <millis>1598386375800</millis>
+  <sequence>86</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:12:55</date>
+  <millis>1598386375811</millis>
+  <sequence>87</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: show
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:12:55</date>
+  <millis>1598386375811</millis>
+  <sequence>88</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:14:17</date>
+  <millis>1598386457605</millis>
+  <sequence>89</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: clear
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:14:17</date>
+  <millis>1598386457626</millis>
+  <sequence>90</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:15:01</date>
+  <millis>1598386501434</millis>
+  <sequence>91</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: login
+Параметр: 1 1
+
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:15:01</date>
+  <millis>1598386501435</millis>
+  <sequence>92</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:15:01</date>
+  <millis>1598386501447</millis>
+  <sequence>93</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: show
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:15:01</date>
+  <millis>1598386501447</millis>
+  <sequence>94</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:27:25</date>
+  <millis>1598387245324</millis>
+  <sequence>95</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: login
+Параметр: q q
+
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:27:25</date>
+  <millis>1598387245325</millis>
+  <sequence>96</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:27:25</date>
+  <millis>1598387245336</millis>
+  <sequence>97</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: show
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:27:25</date>
+  <millis>1598387245336</millis>
+  <sequence>98</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:29:49</date>
+  <millis>1598387389860</millis>
+  <sequence>99</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: login
+Параметр: q q
+
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:29:49</date>
+  <millis>1598387389861</millis>
+  <sequence>100</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:29:49</date>
+  <millis>1598387389872</millis>
+  <sequence>101</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: show
+Параметр: null
+Билет: null</message>
+</record>
+<record>
+  <date>2020-08-25T23:29:49</date>
+  <millis>1598387389872</millis>
+  <sequence>102</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
+<record>
+  <date>2020-08-25T23:30:41</date>
+  <millis>1598387441077</millis>
+  <sequence>103</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Данные клиента: 
+Имя комманды: add
+Параметр: null
+Билет: ID: null, название: eeee, координаты: (22.0;22), дата создания: null, цена: 22, автор null</message>
+</record>
+<record>
+  <date>2020-08-25T23:30:41</date>
+  <millis>1598387441089</millis>
+  <sequence>104</sequence>
+  <logger>Server</logger>
+  <level>FINE</level>
+  <class>Server</class>
+  <method>process</method>
+  <thread>1</thread>
+  <message>Ожидание команды от клиента</message>
+</record>
